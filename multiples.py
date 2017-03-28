@@ -6,4 +6,4 @@ userNumber = raw_input("Tell me a number. ")
 userNumber = float(userNumber)
 
 # Do the doubling
-print("Double that is {}. ".format(userNumber * 2))
+print("Double that is {}. ".format(userNumber * ))
